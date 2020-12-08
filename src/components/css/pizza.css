@@ -1,0 +1,10 @@
+.Pizza {
+  height: 50vh;
+  background: url(../images/pizza-splash.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.Pizza .header-text {
+  padding-top: 8%;
+}
